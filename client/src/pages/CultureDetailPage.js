@@ -69,7 +69,7 @@ const CultureDetailPage = () => {
             Things you must do in {cultures.name}:
           </p>
           <div className="pl-4">
-            {cultures.thingsToDo.map((thing, index) => {
+            {cultures.thingsToDo?.map((thing, index) => {
                 return <li>{thing}</li>
             })}
             </div>
