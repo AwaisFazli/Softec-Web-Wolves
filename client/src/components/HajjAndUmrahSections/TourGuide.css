@@ -1,0 +1,10 @@
+#cardDetails {
+    display: none;
+    /* visibility: hidden; */
+  }
+  
+  #card:hover #cardDetails {
+    display: flex;
+    /* visibility: visible; */
+  }
+  

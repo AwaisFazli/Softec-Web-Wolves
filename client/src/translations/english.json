@@ -1,0 +1,18 @@
+{
+    "common":{
+        "hi": "Hello"
+    },
+    "navbar":{
+        "home": "Home",
+        "profile": "Profile",
+        "logout": "Logout",
+        "login": "Login",
+        "signup": "Signup"
+        
+    },
+    "homepage": {
+        "homeHeader": "Let's Make Your Best Trip Ever",
+        "homeSubtitle": "Plan and book your perfect trip with expert advice, travel tips, destination information and inspiration from us.",
+        "homeButton": "Discover Now"
+    }
+}
